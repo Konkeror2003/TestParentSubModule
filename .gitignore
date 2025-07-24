@@ -5,3 +5,4 @@
 /.vs
 /ParentConsoleApp/.vs
 /ParentConsoleApp/obj
+/ParentConsoleApp/bin/Debug/net8.0

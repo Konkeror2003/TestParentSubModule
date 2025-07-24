@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestChildSubModule\ClassLibrary\ClassLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
