@@ -1,0 +1,3 @@
+[submodule "TestChildSubModule"]
+	path = TestChildSubModule
+	url = https://github.com/Konkeror2003/TestChildSubModule.git
